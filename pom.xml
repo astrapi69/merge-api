@@ -11,7 +11,7 @@
 	</parent>	
 
 	<artifactId>merge-api</artifactId>
-	<version>3</version>
+	<version>3.1-SNAPSHOT</version>
 
 	<dependencyManagement>
 
