@@ -13,7 +13,6 @@
 	<artifactId>merge-api</artifactId>
 	<version>3</version>
 
-
 	<dependencyManagement>
 
 	<dependencies>
