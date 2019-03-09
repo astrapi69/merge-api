@@ -3,7 +3,6 @@
 <div align="center">
 
 [![Build Status](https://travis-ci.org/astrapi69/merge-api.svg?branch=develop)](https://travis-ci.org/astrapi69/merge-api) 
-[![Coverage Status](https://coveralls.io/repos/github/astrapi69/merge-api/badge.svg?branch=develop)](https://coveralls.io/github/astrapi69/merge-api?branch=develop) 
 [![Open Issues](https://img.shields.io/github/issues/astrapi69/merge-api.svg?style=flat)](https://github.com/astrapi69/merge-api/issues) 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/de.alpharogroup/merge-api/badge.svg)](https://maven-badges.herokuapp.com/maven-central/de.alpharogroup/merge-api)
 [![Javadocs](http://www.javadoc.io/badge/de.alpharogroup/merge-api.svg)](http://www.javadoc.io/doc/de.alpharogroup/merge-api)
@@ -102,12 +101,6 @@ or over flattr:
 |     :---:      |
 |[![sonatype repository](https://img.shields.io/nexus/r/https/oss.sonatype.org/de.alpharogroup/merge-api.svg?style=for-the-badge)](https://oss.sonatype.org/index.html#nexus-search;gav~de.alpharogroup~merge-api~~~)|
 |Special thanks to [sonatype repository](https://www.sonatype.com) for providing a free maven repository service for open source projects|
-|     <img width=1000/>     |
-
-|**coveralls.io**|
-|     :---:      |
-|[![Coverage Status](https://coveralls.io/repos/github/astrapi69/merge-api/badge.svg?branch=develop)](https://coveralls.io/github/astrapi69/merge-api?branch=master)|
-|Special thanks to [coveralls.io](https://coveralls.io) for providing a free code coverage for open source projects|
 |     <img width=1000/>     |
 
 |**javadoc.io**|
