@@ -13,6 +13,8 @@
 
 Provides intefaces and an abstract class for merging objects 
 
+If you like this project put a ⭐ and donate
+
 ## License
 
 The source code comes under the liberal MIT License.
