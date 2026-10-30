@@ -79,5 +79,4 @@
 ################
 /build
 /.gradle
-/gradle
 /pom.xml.bak
